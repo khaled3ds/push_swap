@@ -1,1 +1,1 @@
-# push_swap
+this is a solution for the push_swap project from 42 school using the radix method for the large numbers and hard coded method for the numbers for 2 to 5 with a great validation and no norminette errors or leaks
